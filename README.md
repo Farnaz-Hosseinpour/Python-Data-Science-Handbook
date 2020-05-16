@@ -1,6 +1,6 @@
 ## Python Data Science Handbook
 
-This repository contains the course material for Python Data Science Handbook by Jake VanderPlas. 
+This repository contains the course materials for Python Data Science Handbook by Jake VanderPlas. I have read the book, studied the codes, run and modified them.
 
 ### How to Use this:
 
