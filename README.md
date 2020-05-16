@@ -5,8 +5,11 @@ This repository contains the course materials for Python Data Science Handbook b
 ### How to Use this:
 
 - Read the book in its entirety online.
+https://jakevdp.github.io/PythonDataScienceHandbook/
 
-- Run the code using the Jupyter notebooks available in this repository's [notebooks] directory.
+- Access the Jupyter notebooks codes from:
+https://github.com/e-erfani/Python-Data-Science-Handbook/tree/master/notebooks
+
 
 ### Requirements:
 
